@@ -1,0 +1,47 @@
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\obj\Debug\SeleniumRunTest.csprojResolveAssemblyReference.cache
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\SeleniumTest.exe
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\SeleniumTest.pdb
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\WebDriver.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\WebDriver.Support.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\WebDriver.pdb
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\WebDriver.xml
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\WebDriver.Support.pdb
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\WebDriver.Support.xml
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\obj\Debug\SeleniumTest.exe
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\obj\Debug\SeleniumTest.pdb
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumRunTest\bin\Debug\SeleniumTest.exe
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumRunTest\bin\Debug\SeleniumTest.pdb
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumRunTest\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumRunTest\bin\Debug\SeleniumModel.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumRunTest\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumRunTest\bin\Debug\WebDriver.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumRunTest\bin\Debug\WebDriver.Support.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumRunTest\bin\Debug\nunit.framework.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumRunTest\bin\Debug\SeleniumModel.pdb
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumRunTest\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumRunTest\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumRunTest\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumRunTest\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumRunTest\bin\Debug\WebDriver.pdb
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumRunTest\bin\Debug\WebDriver.xml
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumRunTest\bin\Debug\WebDriver.Support.pdb
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumRunTest\bin\Debug\WebDriver.Support.xml
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumRunTest\bin\Debug\nunit.framework.xml
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumRunTest\obj\Debug\SeleniumRunTest.csprojResolveAssemblyReference.cache
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumRunTest\obj\Debug\SeleniumTest.exe
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumRunTest\obj\Debug\SeleniumTest.pdb
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumRunTest\obj\Debug\SeleniumTest.exe
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumRunTest\obj\Debug\SeleniumTest.pdb
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumRunTest\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumRunTest\bin\Debug\xunit.runner.utility.desktop.dll
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumRunTest\bin\Debug\xunit.abstractions.dll
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumRunTest\bin\Debug\xunit.execution.desktop.dll
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumRunTest\bin\Debug\SeleniumTest.exe
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumRunTest\bin\Debug\SeleniumTest.pdb
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumRunTest\obj\Debug\SeleniumRunTest.csprojResolveAssemblyReference.cache

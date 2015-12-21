@@ -1,0 +1,33 @@
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\SeleniumModel.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\SeleniumModel.pdb
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\nunit.framework.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\WebDriver.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\WebDriver.Support.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\nunit.framework.xml
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\WebDriver.pdb
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\WebDriver.xml
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\WebDriver.Support.pdb
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\bin\Debug\WebDriver.Support.xml
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\obj\Debug\SeleniumModel.csprojResolveAssemblyReference.cache
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\obj\Debug\SeleniumModel.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumModel\obj\Debug\SeleniumModel.pdb
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumModel\bin\Debug\xunit.abstractions.dll
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumModel\bin\Debug\xunit.execution.desktop.dll
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumModel\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumModel\bin\Debug\xunit.runner.utility.desktop.dll
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumModel\bin\Debug\SeleniumModel.dll
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumModel\bin\Debug\SeleniumModel.pdb
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumModel\bin\Debug\xunit.assert.dll
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumModel\bin\Debug\xunit.core.dll
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumModel\bin\Debug\xunit.assert.pdb
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumModel\bin\Debug\xunit.assert.xml
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumModel\bin\Debug\xunit.core.pdb
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumModel\bin\Debug\xunit.core.xml
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumModel\obj\Debug\SeleniumModel.dll
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumModel\obj\Debug\SeleniumModel.pdb

@@ -1,0 +1,17 @@
+C:\Users\day\AppData\Local\Temporary Projects\SeleniumTest\bin\Debug\SeleniumTest.exe
+C:\Users\day\AppData\Local\Temporary Projects\SeleniumTest\bin\Debug\SeleniumTest.pdb
+C:\Users\day\AppData\Local\Temporary Projects\SeleniumTest\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\day\AppData\Local\Temporary Projects\SeleniumTest\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\day\AppData\Local\Temporary Projects\SeleniumTest\bin\Debug\WebDriver.dll
+C:\Users\day\AppData\Local\Temporary Projects\SeleniumTest\bin\Debug\WebDriver.Support.dll
+C:\Users\day\AppData\Local\Temporary Projects\SeleniumTest\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\day\AppData\Local\Temporary Projects\SeleniumTest\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\day\AppData\Local\Temporary Projects\SeleniumTest\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\day\AppData\Local\Temporary Projects\SeleniumTest\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\day\AppData\Local\Temporary Projects\SeleniumTest\bin\Debug\WebDriver.pdb
+C:\Users\day\AppData\Local\Temporary Projects\SeleniumTest\bin\Debug\WebDriver.xml
+C:\Users\day\AppData\Local\Temporary Projects\SeleniumTest\bin\Debug\WebDriver.Support.pdb
+C:\Users\day\AppData\Local\Temporary Projects\SeleniumTest\bin\Debug\WebDriver.Support.xml
+C:\Users\day\AppData\Local\Temporary Projects\SeleniumTest\obj\Debug\SeleniumTest.csprojResolveAssemblyReference.cache
+C:\Users\day\AppData\Local\Temporary Projects\SeleniumTest\obj\Debug\SeleniumTest.exe
+C:\Users\day\AppData\Local\Temporary Projects\SeleniumTest\obj\Debug\SeleniumTest.pdb

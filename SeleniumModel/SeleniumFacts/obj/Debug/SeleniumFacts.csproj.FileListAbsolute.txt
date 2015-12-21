@@ -1,0 +1,28 @@
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumFacts\bin\Debug\SeleniumFacts.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumFacts\bin\Debug\SeleniumFacts.pdb
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumFacts\bin\Debug\nunit.framework.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumFacts\bin\Debug\nunit.framework.xml
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumFacts\obj\Debug\SeleniumFacts.csprojResolveAssemblyReference.cache
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumFacts\obj\Debug\SeleniumFacts.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumFacts\obj\Debug\SeleniumFacts.pdb
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumFacts\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumFacts\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumFacts\bin\Debug\WebDriver.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumFacts\bin\Debug\WebDriver.Support.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumFacts\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumFacts\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumFacts\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumFacts\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumFacts\bin\Debug\WebDriver.pdb
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumFacts\bin\Debug\WebDriver.xml
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumFacts\bin\Debug\WebDriver.Support.pdb
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumFacts\bin\Debug\WebDriver.Support.xml
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumFacts\bin\Debug\nunitlite.dll
+D:\Desktop\Visual Studio 2012\Projects\SeleniumModel\SeleniumFacts\bin\Debug\Depen\chromedriver.exe
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumFacts\bin\Debug\Depen\chromedriver.exe
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumFacts\bin\Debug\WebDriver.xml
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumFacts\obj\Debug\SeleniumFacts.dll
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumFacts\obj\Debug\SeleniumFacts.pdb
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumFacts\bin\Debug\SeleniumFacts.dll
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumFacts\bin\Debug\SeleniumFacts.pdb
+E:\MyDoc\GitHub\PPSelenium\SeleniumModel\SeleniumFacts\obj\Debug\SeleniumFacts.csprojResolveAssemblyReference.cache
